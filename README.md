@@ -2,6 +2,9 @@
 <div>
     <img src="assests/images/banner.png" alt="image" />
 </div>
+<div background-color: #F7E7CE;>
+ <h3 color: white;>My Name is Wavua but you can call me Chris_P</3>
+</div>
 
 <!--
 **WavuaW/WavuaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
