@@ -4,7 +4,7 @@
 </div>
 
 <div style="background-color: #f7e7ce;">
-    <h3 align="center"> :computer: My Name is Wavua alias=Chris_P :computer:</h3>
+    <h3 align="center"> :computer: Wavua here, alias=Chris_P :computer:</h3>
 </div>
 
 <!--
