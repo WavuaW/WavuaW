@@ -2,8 +2,8 @@
 <div>
     <img src="assests/images/banner.png" alt="image" />
 </div>
-<div style="background-color: #F7E7CE;">
- <h3 style="color: white;">My Name is Wavua but you can call me Chris_P</3>
+<div style="background-color: #f7e7ce;">
+ <h3 style="color: white; text-align: center;">My Name is Wavua but you can call me Chris_P</3>
 </div>
 
 <!--
