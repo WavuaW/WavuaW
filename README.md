@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div>
+    <img src="assets/images/banner.png">
+</div>
 
 <!--
 **WavuaW/WavuaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
