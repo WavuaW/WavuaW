@@ -6,6 +6,9 @@
 <div style="background-color: #f7e7ce;">
     <h3 align="center"> :computer: Wavua here, alias=Chris_P :computer:</h3>
 </div>
+<div align="center">
+    <img src="assests/images/SliceofHeaven.png"/>
+</div>
 
 <!--
 **WavuaW/WavuaW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
