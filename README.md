@@ -2,6 +2,7 @@
 <div>
     <img src="assests/images/banner.png" alt="image" />
 </div>
+
 <div style="background-color: #f7e7ce;">
  <h3 style="color: white;, text-align: center;">My Name is Wavua but you can call me Chris_P</h3>
 </div>
