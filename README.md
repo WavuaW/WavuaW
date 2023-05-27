@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div>
-    <img src="assets/images/banner.png">
+    <img src="assests/images/banner.png" alt="image" />
 </div>
 
 <!--
