@@ -10,7 +10,7 @@
 </div>
 
 <div>
-    <h3 align="center"> :two_hearts: Futuristic:milky_way: Techie  :two_hearts:</h3>
+    <h3 align="center"> :two_hearts: Futuristic :milky_way: Techie  :two_hearts:</h3>
 </div>
 
 
