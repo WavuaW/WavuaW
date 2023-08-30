@@ -2,12 +2,8 @@
 <div>
     <img src="assests/images/banner.png" alt="image" />
 </div>
-<script src=“https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js”></script><lottie-player src=“https://lottie.host/3c21c6f2-5e9c-42f8-887f-9ccf3c17d805/TLesUCSsP0.json” background=“#FFFFFF” speed=“1” style=“width: 300px; height: 300px” loop controls autoplay direction=“1” mode=“normal”></lottie-player>
 <div>
     <h3 align="center"> :computer: Wavua here, alias=Chris_P :computer:</h3>
-</div>
-<div align="center">
-    <img src="assests/images/SliceofHeaven.png"/>
 </div>
 
 <div>
