@@ -17,12 +17,12 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on **Javascript, Python**
+- 🔭 I’m currently working on **Building a Portfolio, Creating Awesome Concepts**
 
-- 🌱 I’m currently learning Node.js & the Backend
+- 🌱 I’m currently learning Machine Learning, Data Science, C# and .NET
 - 👯 I’m looking to collaborate on ML AL and other fun projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with C# and .NET
+- 💬 Ask me about Python, Javascript, Gsap, a Heart to Heart
 - 📫 How to reach me: **wavuamuroka@gmail.com
 - ⚡ Fun fact: I am an artist
 
