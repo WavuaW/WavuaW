@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ML AL and other fun projects
 - 🤔 I’m looking for help with C# and .NET
 - 💬 Ask me about Python, Javascript, Gsap, a Heart to Heart
-- 📫 How to reach me: **wavuamuroka@gmail.com
+- 📫 How to reach me: **wavuamuroka@gmail.com or https://cwavua.io/
 - ⚡ Fun fact: I am an artist
 
 <h3 align="left">Connect with me:</h3>
