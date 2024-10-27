@@ -1,6 +1,6 @@
-### Bonjour 👋
-<div style="display: flex; align-items: center; justify-content: center;">
-    <img style="height: 400px; width: 800px;" src="assests/images/image-1.jpg" alt="image" />
+### Habari 👋
+<div>
+    <img style="height: 400px; width: 100%;" src="assests/images/image-3.jpg" alt="image" />
 </div>
 <div>
     <h3 align="center"> :computer: Wavua here, alias=Chris_P :computer:</h3>
