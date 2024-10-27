@@ -1,4 +1,4 @@
-### Habari 👋
+### Habari! 👋
 <div>
     <img style="height: 400px; width: 100%;" src="assests/images/image-3.jpg" alt="image" />
 </div>
