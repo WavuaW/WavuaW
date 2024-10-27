@@ -1,6 +1,6 @@
 ### Bonjour 👋
 <div>
-    <img src="assests/images/image-1.jpg" alt="image" />
+    <img style="height: 400px; width: 100%;" src="assests/images/image-1.jpg" alt="image" />
 </div>
 <div>
     <h3 align="center"> :computer: Wavua here, alias=Chris_P :computer:</h3>
