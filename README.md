@@ -1,3 +1,4 @@
+
 ### Bonjour 👋
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&random=false&width=600&lines=Bonjour+👋+Wavua+here;alias%3DChris_P+💫;Futuristic+🌌+Techie;ML+%26+AI+Enthusiast;Artist+%26+Creator" alt="Typing SVG" />
@@ -11,6 +12,8 @@
   <img src="https://komarev.com/ghpvc/?username=WavuaW&label=Profile%20views&color=00D4FF&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/WavuaW?label=Followers&style=social" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/WavuaW?label=Stars&style=social" alt="GitHub stars" />
+
+
 </p>
 
 <div align="center">
